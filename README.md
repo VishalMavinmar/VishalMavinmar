@@ -1,4 +1,7 @@
-![logo](https://github.com/VishalMavinmar/VishalMavinmar/blob/main/github-header-image.png)
+<p align="center">
+  <img src="https://github.com/VishalMavinmar/VishalMavinmar/blob/main/github-header-image.png" alt="logo">
+</p>
+
 <h1 align="center">Hi 👋, I'm Vishal Mavinmar</h1>
 <h3 align="center">Passionate Fullstack Developer</h3>
 
