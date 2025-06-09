@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmavinmar&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmavinmar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalmavinmar" alt="vishalmavinmar" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalmavinmar" alt="vishalmavinmar" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/@vishalmavinmar" target="blank"><img src="https://img.shields.io/twitter/follow/@vishalmavinmar?logo=twitter&style=for-the-badge" alt="@vishalmavinmar" /></a> </p>
 
