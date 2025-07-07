@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/VishalMavinmar/VishalMavinmar/blob/main/github-header-image (1).png" alt="logo">
+  <img src="![Header](./your-header-image-name.png)" alt="logo">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vishal Mavinmar</h1>
