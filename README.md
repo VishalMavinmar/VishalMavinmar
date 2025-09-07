@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vishal Mavinmar</h1>
-<h3 align="center">Passionate Software Developer | Fullstack </h3>
+<h3 align="center">Passionate Software Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalmavinmar&label=Profile%20views&color=0e75b6&style=flat" alt="vishalmavinmar" /> </p>
