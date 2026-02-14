@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Pursuing **BCA** at **IMRDA**
-- 💻 Focused on **Advanced Java**, backend systems & databases
+- 💻 Focused on **Advanced Python**, backend systems & databases
 - 🧠 Strong interest in **logic building & real-world problem solving**
 - 📫 Reach me at: **vishalmavinmar3@gmail.com**
 - ⚡ Fun Fact: *I build solutions — code is just the tool*
