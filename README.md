@@ -2,7 +2,7 @@
   <img src="https://github.com/VishalMavinmar/VishalMavinmar/blob/main/github-header-image%20(7).png" alt="Vishal Mavinmar Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vishal Mavinmar</h1>
+
 <h3 align="center">Being Software Developer | BCA Student @ IMRDA</h3>
 
 <p align="center">
