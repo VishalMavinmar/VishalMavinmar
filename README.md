@@ -12,13 +12,10 @@
 
 <p align="left"> <a href="https://twitter.com/@vishalmavinmar" target="blank"><img src="https://img.shields.io/twitter/follow/@vishalmavinmar?logo=twitter&style=for-the-badge" alt="@vishalmavinmar" /></a> </p>
 
-- 🌱 I’m currently learning **BCA @ IMRDA**
-
-- 💬 Ask me about **Advanced Java**
-
-- 📫 How to reach me **vishalmavinmar3@gmail.com**
-
-- ⚡ Fun fact **I am not Coder**
+BCA @ IMRDA  
+Passionate about Advanced Java & Problem Solving  
+Let’s connect: vishalmavinmar3@gmail.com  
+Fun Fact: Code is my tool, not my identity 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
