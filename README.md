@@ -59,8 +59,7 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalmavinmar&show_icons=true&theme=default&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmavinmar&hide_border=true" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalmavinmar&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
