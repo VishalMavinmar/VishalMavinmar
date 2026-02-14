@@ -59,7 +59,7 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalmavinmar&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmavinmar&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 <p align="center">
