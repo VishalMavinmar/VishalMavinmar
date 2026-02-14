@@ -71,3 +71,6 @@
 <p align="center">
   💡 <i>“Write code that solves problems, not just passes tests.”</i>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmavinmar&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
