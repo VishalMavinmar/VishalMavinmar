@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vishal Mavinmar</h1>
-<h3 align="center">Software Developer | BCA Student @ IMRDA</h3>
+<h3 align="center">Being Software Developer | BCA Student @ IMRDA</h3>
 
 <p align="center">
   🚀 Passionate about building scalable applications <br/>
-  ☕ Advanced Java | Backend Development | Problem Solving
+  ☕ Python | Django | Restful API's
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif"/>
