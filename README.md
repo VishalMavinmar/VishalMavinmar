@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 - 🎓 Pursuing bachelors
 - 💻 Focused on **Advanced Python**, backend systems & databases
-- 🧠 Strong interest in **logic building & real-world problem solving**
+- 🧠 interest in **logic building & real-world problem solving**
 - 📫 Reach me at: **vishalmavinmar3@gmail.com**
 - ⚡ Fun Fact: *I build solutions — code is just the tool*
 
